@@ -29,6 +29,8 @@ apis:
       - type: Documentation
         url: https://p4.org/specs/
 common:
+  - type: DomainSecurity
+    url: security/p4-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/perforce
   - type: Documentation
@@ -39,6 +41,8 @@ common:
     name: P4 GitHub
     description: Source code and repositories for P4.
     url: https://github.com/p4lang
+  - url: https://p4.org/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com
