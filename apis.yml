@@ -3,6 +3,17 @@ name: P4
 description: >-
   P4 is a Linux Foundation project enabling programmable data planes in networking devices through an open, standardized programming language. It allows network engineers to define how packets are processed by forwarding planes of network devices independent of specific hardware implementations.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: freemium
   onboarding: unknown
