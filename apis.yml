@@ -52,6 +52,12 @@ apis:
       - type: Documentation
         url: https://p4.org/specs/
 common:
+  - type: Plans
+    url: plans/p4-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/p4-rate-limits.yml
+  - type: FinOps
+    url: finops/p4-finops.yml
   - type: Website
     url: https://www.p4.org/
   - type: DomainSecurity
